@@ -28,7 +28,7 @@
       },
       "[production]": {
         "auth": "xsuaa",
-        "db": "hana"
+        "db": "sqlite"
       },
       "fiori": {
         "preview": true
